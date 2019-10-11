@@ -6,4 +6,5 @@
 4. The Three Body Problem Series
 5. Homo Deus
 6. Steve Jobs
+7. Flowers for Algernon
 
