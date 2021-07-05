@@ -23,7 +23,14 @@
 21. Altered Carbon
 22. Bang Baaja Baraat
 23. The Boys
-
+24. The Test
+25. Love Death and Robots
+26. The Family Man
+27. The Mandalorian
+28. Scam 1992
+29. Bandish Bandits
+30. Haikyuu
+31. Fleabag
 
 
 
@@ -35,3 +42,5 @@
 ## Documentaries
 1. Requiem for the American Dream
 2. The Jinx: The Life and Deaths of Robert Durst
+3. The Last Dance
+4. The Inventor: Out for Blood in Silicon Valley
