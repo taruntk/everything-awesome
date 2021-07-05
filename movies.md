@@ -65,6 +65,11 @@
 62. Sarfarosh
 63. Dostana
 64. Tanu Weds Manu
+65. Drishyam 2
+66. Chichore
+67. KGF
+68. Article 15
+69. Badla
 
 ## Hollywood
 1. Rush
@@ -119,6 +124,15 @@
 50. The Imitation Game
 51. Ex Machina
 52. Deadpool
+53. Hamilton
+54. Molly's Game
+55. Coherence
+56. Knives Out
+57. Parasite
+58. Green Book
+59. Ford vs Ferrari
+60. Margin Call
+
 
 
 ## Animated
@@ -135,3 +149,5 @@
 11. Kung fu panda
 12. Inside out
 13. Finding Nemo
+14. Soul
+15. Spies in Disguise
